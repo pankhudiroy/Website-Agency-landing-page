@@ -610,24 +610,30 @@ input:focus {
 
 @media (max-width: 992px) {
     .contact-container {
-        grid-template-columns: 1fr; 
+        grid-template-columns: 1fr;
         gap: 30px;
         margin: 30px auto;
     }
 
     .contact-info {
-        text-align: center;
         align-items: center;
+        text-align: center;
     }
 
     .info-card {
-        justify-content: center;
-        width: 17rem;
+        justify-content: center; 
+        width: 100%;
+        max-width: 350px;
     }
 
-    .row {
-        grid-template-columns: 1fr; 
+    .contact-form .row {
+        display: flex;
+        flex-direction: column;
         gap: 15px;
+    }
+
+    .form-group {
+        width: 100%;
     }
 }
 
