@@ -6,7 +6,7 @@ The official portfolio and agency landing page, a high-performance web developme
 ![Desktop View](landing-page.png)
 
 ## 🚀 Live Demo
-[https://astounding-salmiakki-8e8505.netlify.app/](https://astounding-salmiakki-8e8505.netlify.app/)
+[https://website-agency-landing-page.netlify.app/contact](https://website-agency-landing-page.netlify.app/contact)
 
 ## 🛠️ Tech Stack
 * **HTML5** - Semantic structure for superior SEO and accessibility.
