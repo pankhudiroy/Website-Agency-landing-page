@@ -3,7 +3,7 @@
 The official portfolio and agency landing page, a high-performance web development agency. This project demonstrates our expertise in building modern, scalable, and conversion-optimized digital solutions.
 
 ## 📸 Preview
-![landing page.png](landing page.png)
+![Desktop View](landing-page.png)
 
 ## 🚀 Live Demo
 [https://astounding-salmiakki-8e8505.netlify.app/](https://astounding-salmiakki-8e8505.netlify.app/)
