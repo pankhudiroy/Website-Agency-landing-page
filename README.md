@@ -6,7 +6,7 @@ The official portfolio and agency landing page, a high-performance web developme
 ![Desktop View](landing-page.png)
 
 ## 🚀 Live Demo
-[https://website-agency-landing-page.netlify.app/contact](https://website-agency-landing-page.netlify.app/contact)
+[https://website-agency-landing-page.netlify.app/](https://website-agency-landing-page.netlify.app/)
 
 ## 🛠️ Tech Stack
 * **HTML5** - Semantic structure for superior SEO and accessibility.
